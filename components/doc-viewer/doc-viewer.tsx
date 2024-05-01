@@ -5,12 +5,11 @@ export function DocViewer() {
     {
       uri: "https://doc-viewer-spike-documents.s3.ap-southeast-2.amazonaws.com/gov-id-requirements.pdf",
     },
-
-    {
-      uri: "https://doc-viewer-spike-documents.s3.ap-southeast-2.amazonaws.com/file_example_XLSX_100.xlsx",
-    },
     {
       uri: "https://doc-viewer-spike-documents.s3.ap-southeast-2.amazonaws.com/file-sample_500kB.docx",
+    },
+    {
+      uri: "https://doc-viewer-spike-documents.s3.ap-southeast-2.amazonaws.com/file_example_XLSX_100.xlsx",
     },
   ];
 
