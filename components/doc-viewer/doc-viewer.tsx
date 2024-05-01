@@ -18,6 +18,9 @@ export function DocViewer() {
       documents={docs}
       pluginRenderers={DocViewerRenderers}
       style={{ height: "80dvh" }}
+      config={{
+        pdfVerticalScrollByDefault: true,
+      }}
     />
   );
 }
